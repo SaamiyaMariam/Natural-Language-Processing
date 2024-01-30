@@ -1,4 +1,4 @@
-# Urdu Stories Scrapy Spider
+# Web Scraping with Scrapy for Urdu Stories Curation
 
 ## Introduction
 This Scrapy spider is designed to crawl and scrape Urdu stories from the website [UrduZone](https://www.urduzone.net). The spider extracts story links from the main page and then proceeds to fetch individual stories, capturing their titles and text.
